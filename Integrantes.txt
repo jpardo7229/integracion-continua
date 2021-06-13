@@ -1,5 +1,8 @@
 ﻿Febe Isabella Díaz Pedraza
 Cristhian Eduardo Cortes Martha
 Angie Lizeth Gonzalez Rivera
+<<<<<<< HEAD
 Efrain Leonardo Pardo Pantano
 Juan Carlos Pardo chaparro.
+=======
+
